@@ -1,3 +1,9 @@
+
+body 
+{
+ background-color: whitesmoke;
+}
+
 h1 {
     text-align: center;
     color: blueviolet;
@@ -10,14 +16,20 @@ footer {
 padding: 30px;
 
 }
+div.pageBody {
+margin: 3px auto;
+padding: 10%;
+}
 
-button{
-   display: block;
-   margin: 0 auto;
+
+
+#signUp {
+    color: lavender;
+ display: block;
+   margin: 0px auto;
    border: orchid;
    border-radius: 5px;
 }
-
 a {
     text-decoration: none;
 }
