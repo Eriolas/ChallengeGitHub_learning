@@ -4,8 +4,20 @@ h1 {
 }
 
 footer {
+    font-size: smaller;
     text-align: center;
     color: black;
-    text-decoration: underline;
+padding: 30px;
 
+}
+
+button{
+   display: block;
+   margin: 0 auto;
+   border: orchid;
+   border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
 }
